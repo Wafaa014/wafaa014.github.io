@@ -1992,32 +1992,32 @@ input, select, textarea {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 8em 0 8em 0;
-		text-align: left;
+		text-align: justify;
 	}
 
 		.wrapper.style1 {
 			background-image: none;
 			background-color: #fff;
-			text-align: left;
+			text-align: justify;
 		}
 
 		.wrapper.style2 {
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
-			text-align: left;
+			text-align: justify;
 		}
 
 		.wrapper.style3 {
 			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
-			text-align: left;
+			text-align: justify;
 		}
 
 		.wrapper.style4 {
 			background-color: #fafafa;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
-			text-align: left;
+			text-align: justify;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
