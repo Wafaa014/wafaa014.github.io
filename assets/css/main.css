@@ -1997,24 +1997,24 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #E2E2E2;
 			text-align: justify;
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-color: #A9D6E5;
 			text-shadow: 1px 1px 0px #fff;
 			text-align: justify;
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
+			background-color: #19747E;
 			text-shadow: 1px 1px 0px #fff;
 			text-align: justify;
 		}
 
 		.wrapper.style4 {
-			background-color: #fafafa;
+			background-color: #D1E8E2;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 			text-align: justify;
