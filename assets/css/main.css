@@ -1750,10 +1750,12 @@ input, select, textarea {
 	ul {
 		list-style: none;
 		padding-left: 1em;
+		text-align: left;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			text-align: left;
 		}
 
 	ol {
@@ -2037,7 +2039,7 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
-		text-align: center;
+		text-align: left;
 		position: fixed;
 		left: 0;
 		top: 0;
