@@ -1997,24 +1997,30 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #E2E2E2;
+			background-color: #EFD9CE;
 			text-align: justify;
 		}
 
 		.wrapper.style2 {
-			background-color: #A9D6E5;
+			background-color: #CEA2AC;
 			text-shadow: 1px 1px 0px #fff;
 			text-align: justify;
 		}
 
 		.wrapper.style3 {
-			background-color: #19747E;
+			background-color: #A675A1;
 			text-shadow: 1px 1px 0px #fff;
 			text-align: justify;
 		}
 
 		.wrapper.style4 {
-			background-color: #D1E8E2;
+			background-color: #8F3985;
+			color: #999;
+			text-shadow: -1px -1px 0px #181818;
+			text-align: justify;
+		}
+		.wrapper.style5 {
+			background-color: #25283D;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 			text-align: justify;
@@ -2022,6 +2028,7 @@ input, select, textarea {
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
 				color: #fff;
+				text-align: center;
 			}
 
 			.wrapper.style4 form input[type=text],
