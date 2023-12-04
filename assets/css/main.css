@@ -2005,12 +2005,14 @@ input, select, textarea {
 			background-color: #CEA2AC;
 			/* text-shadow: 1px 1px 0px #fff; */
 			text-align: justify;
+			color: #fff;
 		}
 
 		.wrapper.style3 {
 			background-color: #A675A1;
 			/* text-shadow: 1px 1px 0px #fff; */
 			text-align: justify;
+			color: #fff;
 		}
 
 		.wrapper.style4 {
@@ -2031,11 +2033,11 @@ input, select, textarea {
 			}
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
 				text-align: center;
-				color: #fff;
+				/*color: #fff;*/
 			}
 			.wrapper.style3 h1, .wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
 				text-align: center;
-				color: #fff;
+				/*color: #fff;*/
 			}
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
 				color: #fff;
