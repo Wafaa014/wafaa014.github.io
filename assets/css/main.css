@@ -2166,6 +2166,7 @@ input, select, textarea {
 
 	#contact footer {
 		font-size: 0.9em;
+		text-align: center;
 	}
 
 /* Copyright */
@@ -2177,6 +2178,7 @@ input, select, textarea {
 		list-style: none;
 		padding-left: 0;
 		margin-bottom: 0;
+		text-align: center;
 	}
 
 		#copyright li {
