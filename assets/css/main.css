@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #000;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -1751,6 +1751,7 @@ input, select, textarea {
 		list-style: none;
 		padding-left: 1em;
 		text-align: left;
+		color: #000;
 	}
 
 		ul li {
@@ -1774,6 +1775,7 @@ input, select, textarea {
 		margin: 0;
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
 	}
 
 		ul.social li {
