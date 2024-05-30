@@ -2005,6 +2005,7 @@ input, select, textarea {
 			background-color: #FFFFFF;
 			text-align: justify;
 			color: #000,
+			font-size: 20px,
 		}
 
 		.wrapper.style2 {
